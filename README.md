@@ -35,9 +35,9 @@ Each solution may include:
 DSA-Practice/  
 
 |-- Arrays/  
-
+|
 |-- LinkedLists/  
-
+|
 |-- Trees/  
 
 |-- Graphs/  
