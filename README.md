@@ -34,23 +34,18 @@ Each solution may include:
 
 DSA-Practice/  
 
-|-- Arrays/
-|
+|-- Arrays/  
+
 |-- LinkedLists/  
 
-|
 |-- Trees/  
 
-|
 |-- Graphs/  
 
-|
 |-- DynamicProgramming/  
 
-|
 |-- SearchingSorting/  
 
-|
 |-- README.me
 
 ---
