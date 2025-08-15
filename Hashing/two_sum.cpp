@@ -16,13 +16,15 @@ int main() {
         cout<<"Enter element "<<i+1<<": ";
         cin>>nums[i];
     }
-
+    
     map<int, int> my_map;
 
     for (int i = 0; i < size; i++) {
             int x = target - nums[i];
             if (my_map.contains(x)) {
                 cout << "Pair found: (" << my_map.at(x) << ", " << i << ")" << endl;
+                cin.ignore();
+                cin.get();
                 return (my_map.at(x), i);
             } 
             else {
@@ -33,5 +35,8 @@ int main() {
                 // }
             }
         }
+        cout << "No pair found." << endl;
+        cin.ignore();
+        cin.get(); // Wait for Enter key before exit
         return 0;
 }
