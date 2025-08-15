@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+
 using namespace std;
 
 int main() {
@@ -20,7 +21,7 @@ int main() {
 
     for (int i = 0; i < size; i++) {
             int x = target - nums[i];
-            if (my_map.find(x) != my_map.end()) {
+            if (my_map.contains(x)) {
                 cout << "Pair found: (" << my_map.at(x) << ", " << i << ")" << endl;
                 return (my_map.at(x), i);
             } 
