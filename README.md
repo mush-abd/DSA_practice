@@ -32,20 +32,21 @@ Each solution may include:
 
 ## 📁 Folder Structure
 
-DSA-Practice/  
+DSA_Practice/  
 
-|-- Arrays/  
+|-- Array/ 
+|
+|-- Hashing/  
 |  
 |-- LinkedLists/  
 |  
 |-- Trees/  
 |  
-|-- Graphs/  |
+|-- Graphs/
 |  
 |-- DynamicProgramming/  
 |  
 |-- SearchingSorting/  
-|  
 |-- README.me
 
 ---
