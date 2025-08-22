@@ -64,6 +64,7 @@ DSA_Practice/
 
 Problems are mostly sourced from:
 
+- Strivers DSA Series
 - [LeetCode](https://leetcode.com/)
 <!-- - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Codeforces](https://codeforces.com/)
